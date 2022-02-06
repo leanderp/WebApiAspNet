@@ -87,7 +87,7 @@ namespace WebApiAspNet
                 {
                     Title = "Web Api en Asp .Net 6",
                     Version = "v1",
-                    Description = "Web api de Autores de libros en ASP.NET Core 6 sin Autentificacion.",
+                    Description = "Web api de Autores de libros en ASP.NET Core 6 con Autentificacion.",
                     TermsOfService = new Uri("https://github.com/leanderp/"),
                     Contact = new OpenApiContact()
                     {
