@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationServer.API", "AuthenticationServer.API\AuthenticationServer.API.csproj", "{783467C3-7A5B-4FBA-A8DD-44C29C681D56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiAspNet", "WebApiAspNet\WebApiAspNet.csproj", "{7D60A306-8069-4A8D-A62B-30D6EE655DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783467C3-7A5B-4FBA-A8DD-44C29C681D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783467C3-7A5B-4FBA-A8DD-44C29C681D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783467C3-7A5B-4FBA-A8DD-44C29C681D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783467C3-7A5B-4FBA-A8DD-44C29C681D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D60A306-8069-4A8D-A62B-30D6EE655DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D60A306-8069-4A8D-A62B-30D6EE655DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D60A306-8069-4A8D-A62B-30D6EE655DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D60A306-8069-4A8D-A62B-30D6EE655DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7CC68E-163E-4288-9A05-0E4423BE299E}
+	EndGlobalSection
+EndGlobal
