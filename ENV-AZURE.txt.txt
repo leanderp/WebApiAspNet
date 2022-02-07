@@ -1,6 +1,0 @@
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "AZURE_CLIENT_ID": "c4179622-afce-4dac-aa4b-d7cd015c022a",
-        "AZURE_CLIENT_SECRET": "764dCNQmG8Qha1cel.zof2ux.Oot58vM9S",
-        "AZURE_TENANT_ID": "a4d01581-8cf1-4f45-8a2b-1d2446746188"
-      },
